@@ -21,3 +21,16 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroTitleWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.heroTitleThumbnail {
+  height: 40px;
+  border-radius: 4px;
+}
